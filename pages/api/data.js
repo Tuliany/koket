@@ -22,7 +22,7 @@ export const data = [
   "image": {
     "name": "Cheesecake med räkor och kavring i glas",
     "photographer": "Charlie Drevstam",
-    "url": "https://img.koket.se/standard-large/cheesecake-med-rakoroch-kavring-i-glas.jpg"
+    "url": "https://img.koket.se/standard-large/cheesecake-med-rakor-och-kavring-i-glas.jpg"
     }
   },
   {
@@ -35,7 +35,7 @@ export const data = [
   "image": {
     "name": "Sommartårta med jordgubbsmousse och citronkräm",
     "photographer": "TV4",
-    "url": "https://img.koket.se/standard-large/sommartarta-medjordgubbsmousse-och-citronkram.jpg"
+    "url": "https://img.koket.se/standard-large/sommartarta-med-jordgubbsmousse-och-citronkram.jpg"
     }
   },
   {
@@ -61,7 +61,7 @@ export const data = [
   "image": {
     "name": "Sommartårta i glas med jordgubbar och brynt smör",
     "photographer": "Jessica Frej",
-    "url": "https://img.koket.se/standard-large/sommartarta-i-glasmed-jordgubbar-och-brynt-smor.jpg"
+    "url": "https://img.koket.se/standard-large/sommartarta-i-glas-med-jordgubbar-och-brynt-smor.jpg"
     }
   },
   {
