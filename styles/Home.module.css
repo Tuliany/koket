@@ -47,12 +47,12 @@
 
 .child:hover {
 	box-shadow: 0 8px #d3d3d3;
-	transform: translateY(-3px);
+	transform: translateY(-2px);
 }
 .child:active {
 	background-color: #d3d3d3;
 	box-shadow: 0 5px #ddd7d7;
-	transform: translateY(4px);
+	transform: translateY(3px);
 }
 
 
